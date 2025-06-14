@@ -1,6 +1,8 @@
 # Eco M3 Deep
 It is my custom built 3D printer, with all custom 3D printed parts with large bed area.
 
+I made this printer as it would help in making other projects as i don't have direct access to one, and i am interested more on hackclub events projects & science projects which constantly need custom 3D printed parts.
+
 ![The Printer](./Images/ThePrinter.png)
 
 ## Features 
