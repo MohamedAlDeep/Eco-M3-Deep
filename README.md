@@ -30,7 +30,8 @@ I made this printer as it would help in making other projects as i don't have di
 | SKR 1.4               | SKR V1.4 TURBO                                           | 2,999.00         | 1        | 2,999.00          | [Link](https://www.amazon.eg/-/en/gp/product/B09BMGXJ8S)             |
 | Stepper Motors Drivers| TMC2209 V2 Stepper Motor Driver                          | 480              | 4        | 1920              | [Link](https://www.amazon.eg/-/en/gp/product/B0DJZL2XPQ)             |
 | Heated Bed            | Aluminum Heated Bed for 3D Printer (400x200x3mm)         | 500              | 2        | 1000              | [Link](https://www.amazon.eg/-/en/gp/product/B099D8ZBVM)             |
+| Bed Leveling Screws   | M3 Screw with Spring and Hand Knob (5 Pieces)            | 155              | 1        | 155               | [Link](https://www.amazon.eg/-/en/gp/product/B0968XHW56)             |
 
 ### **Total Cost**
-- **Total (EGP):** 14,381.9  
-- **Total (USD, as of 14/6/2025):** $289.33  
+- **Total (EGP):** 14,536.9  
+- **Total (USD, as of 14/6/2025):** $292.45  
