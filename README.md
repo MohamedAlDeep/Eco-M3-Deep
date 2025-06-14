@@ -4,6 +4,7 @@ It is my custom built 3D printer, with all custom 3D printed parts with large be
 ![The Printer](./Images/ThePrinter.png)
 
 ## Features 
+    - Simplicity
     - Large Bed size with area of 40cmx40cm
     - Remote Extruder
     - The structure & large bed mount are made from wood to reduce cost
