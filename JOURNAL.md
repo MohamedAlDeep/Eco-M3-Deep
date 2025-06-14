@@ -12,11 +12,13 @@ Total time spent: 64h
 
 I made a lot of research on how 3D printers work, in addition to their different types and what are the different components they share and advantages and disadvantages in components types.
 
+![](./Images/Research/ChoosingMainBoard.png)
+
 ## Day 2 (07/6)
 > Spent: 5h
 
 Continued watching more videos, i was interested in simple cartesian bed slingers, in which i searched about how they are assembled and different design strategies.
-
+![](./Images/Research/Structure.png)
 ## Day 3 (08/6)
 > Spent: 5h
 
@@ -25,26 +27,43 @@ Built ideas about the design and materials needed, i decided to a woooden frame 
 > Spent: 9h
 
 Chose the bed size to be 40x40cm with total structural dimensions of 50cmx50cm.
-For the electronics i chose it to be a simple single hotend with bowden extruder as i focus more on speed printing, with SKR 1.4 mainboard. 
+
+I found this bed on amazon which is 40x20, so i decided to get two of it and put them on top of each other.
+![](./Images/Research/HeatedBed.png)
+
+For the electronics i chose it to be a simple single hotend with bowden extruder as i focus more on speed printing, with SKR 1.4 mainboard, with 4 TMC 2209s that are connected to the nema 17 stepper motors, for the dual z axis motors i decided to run them in parallel with the same driver. 
+![](./Images/Research/1678871331_skr-v-14-Lacner3D_Printers_Egypt_Store-1200x1200.webp)
+
+The motors of choice are the 17HS8401S with height of 48mm, as they have optimal tourque for operation & they are widely used in 3D printers.
+![](./Images/Research/Nema17s.png)
 ## Day 5 (10/6)
 > Spent: 8h
 
 Started desiging the x axis mount, i had to go through various implementations and modifications 
 
-- This is the first version of the design
+*The first version of the design*
 ![Bed Mount first](./Images/BedMount_V1.png)
+
 After putting work on the first design i realised how non feasable it was. Which made me thinking about a much better abstraction. 
-- Final Version
+
+*Final Version*
+
 ![Bed Mount](./Images/Bed%20Mount.png)
 
+This structure is made of two symmetrical groups, it has two mounts for the 8mm linear rods on each side, with a pulley + bearing mount and motor mount on the top far side, which are going to hold the timing belt.
+
+The parts at the center are the movable parts that have LM8UU (8mm) linear bearings with holes inside them exactly at the same size of each one of them, those parts are then connected to a wooden sheet for both mounting the heating beds and insulating excess heat. 
 ## Day 6 (11/6)
 > Spent: 10h
 
 I started working on the z axis.
 
-This is the bottom mount for the dual z axis motors.
+This is the bottom mount for the dual z axis motors, it has four 4mm holes for screwing it on a wood part, the motor is put under the upper part which has a height of exactly 48mm to match up with the motor, then a coupler is used to connect the motor shaft with the T8 lead screw (8mm). Then the Linear rods are put into their holes vertically.
 
 ![](./Images/Bottom%20Mount%20Z%20axis.png)
+
+![](./Images/Research/T8_Screw.png)
+![](./Images/Research/Coupler.png)
 
 The second part is the middle moving part that holds the y axis motor to the pulley and also has the screw mount that is used in moving up & down by the rotating T8 screw. I made a small 8mm shaft that would be inserted into the pulley and connected to the part on the left.
 
