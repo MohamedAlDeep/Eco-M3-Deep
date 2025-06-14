@@ -1,7 +1,7 @@
 ---
 title: "Eco M3 Deep"
 author: "Mohamed Samir"
-description: "Describe your project in a short sentence!"
+description: "Custom Built, Cheap, large size 3D printer"
 created_at: "2025-06-6"
 ---
 
