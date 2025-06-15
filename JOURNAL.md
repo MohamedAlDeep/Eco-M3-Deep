@@ -151,3 +151,10 @@ Started finalizing the printer and assembeld all parts on the software.
 ![](./Images/ThePrinter.png)
 
 ![](./Images/ThePrinter%202.png)
+
+### Images
+![](./Rendered/ThePrinter.png)
+![](./Rendered/ThePrinter_2.png)
+![](./Rendered/ThePrinter3.png)
+![](./Rendered/ThePrinter_4.png)
+![](./Rendered/ThePrinter_5.png)
