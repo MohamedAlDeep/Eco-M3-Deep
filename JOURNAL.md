@@ -14,24 +14,39 @@ I made a lot of research on how 3D printers work, in addition to their different
 
 ![](./Images/Research/ChoosingMainBoard.png)
 
+I couldn't find any other on amazon other than the SKR 1.4, which is a great option for as it is 32Bit and enables mutliple beds, i chose the TMC2209 drivers as they enable high accuracy microstepping, which i am planning to combine with low size nozzle (0.3mm) in building high resolution prints.
+
 ## Day 2 (07/6)
 > Spent: 5h
 
 Continued watching more videos, i was interested in simple cartesian bed slingers, in which i searched about how they are assembled and different design strategies.
+
 ![](./Images/Research/Structure.png)
+
+I chose the standard 8mm diameter for both the T8 lead screw and the linear rods, based on that i chose the 8mm bore 20 teeth pulleys. 
+
+I searched for all of that on AliExpress but they were much more expensive than in the local amazon.eg site. 
+
 ## Day 3 (08/6)
 > Spent: 5h
 
-Built ideas about the design and materials needed, i decided to a woooden frame & bed mount as they would otherwise raise the cost.
+Built ideas about the design and materials needed, i chose a wooden frame & bed mount as other materials like linear rails with linear wheel bearings raise the cost.
+
+I found different types of timing belt & chose the compatible GT2 2mm Pitch belt with width of 6mm.
+
+Found 100k NTC thermistors, i wanted three of them for my two beds and hotend.
+
+I also found a 24v cooling fan on amazon for the hotend heatsink, i found bed leveling kit.
+
 ## Day 4 (09/6)
 > Spent: 9h
 
 Chose the bed size to be 40x40cm with total structural dimensions of 50cmx50cm.
 
-I found this bed on amazon which is 40x20, so i decided to get two of it and put them on top of each other.
+I found this bed on amazon which is 40x20, so i decided to get two of it and put them next to each other.
 ![](./Images/Research/HeatedBed.png)
 
-For the electronics i chose it to be a simple single hotend with bowden extruder as i focus more on speed printing, with SKR 1.4 mainboard, with 4 TMC 2209s that are connected to the nema 17 stepper motors, for the dual z axis motors i decided to run them in parallel with the same driver. 
+For the electronics i chose it to be a simple single hotend with bowden extruder as i focus more on speed printing, with SKR 1.4 mainboard, with 4 TMC 2209s that are connected to the nema 17 stepper motors, for the dual z axis motors i decided to run them in parallel with the same driver, and for the bed leveling i decided to leave as the manual leveling screw-spring method.
 ![](./Images/Research/1678871331_skr-v-14-Lacner3D_Printers_Egypt_Store-1200x1200.webp)
 
 The motors of choice are the 17HS8401S with height of 48mm, as they have optimal tourque for operation & they are widely used in 3D printers.
