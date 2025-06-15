@@ -39,7 +39,11 @@ I made this printer as it would help in making other projects as i don't have di
         - Mount the hotend into its place
         - Connect the linear bearings
         - Screw the hotend mount onto the movable part.
-         
+5. Mechanism
+    - Attach the timing belts to the mounts for z - x - y axes.
+    - Connect all cables to the mainboard
+6. Firmware
+    - Install Marlin 2.0 firmware
 
 ## Bill of Materials (BOM)
 
