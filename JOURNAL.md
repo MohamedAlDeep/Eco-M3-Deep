@@ -109,6 +109,41 @@ For the hotend mount i made 2 holes for mounting the CR10 hotend and additional 
  The backward side of the mount, has two square hollow structures that are used for holding the moving timing belt.
 
 ![](/Images/Hot%20End%20Mount%202.png)
+
+### The Assembly 
+1. Mounts 
+
+    - It is simple, start by putting linear bearings into the mounts specifically the moving z axis and the hotend mounts. 
+2. Attachments
+    -  Screw the hotend
+    - Attach mechanical stops with the y axis motor, the same applies to the z axis bottom mount.
+    - Screw the x axis bed motor onto its place.
+    - Add the pulleys onto the motors shafts and onto a 3D printed small 8mm shaft that is connected to a 8mm bearing.
+3. Structure
+    - Make 7x 2x3cm wooden part with length of 50cm, put them together as in the image.
+4. Axes assembly
+    - Z axis
+        - Connect the bottom z axis motor to the coupler and the coupler to the T8 lead screw.
+        - Connect the T8 screw nut onto its place on the movable z axis middle mount.
+        - Connect the upper z mount that has an 8mm bearing into the T8 screw.
+        - Stabalize the structure by connecting the linear rod into its place through the three mounts.
+        - The same applies on the other side
+    - X axis
+        - Mount the motors
+        - Place the linear rods into their mounts 
+        - Put the linear bearings into thier movable mounts.
+        - Screw the movable mounts onto a 45x45cm wooden bed.
+    - Y axis
+        - Mount the hotend into its place
+        - Connect the linear bearings
+        - Screw the hotend mount onto the movable part.
+5. Mechanism
+    - Attach the timing belts to the mounts for z - x - y axes.
+    - Connect all cables to the mainboard
+6. Firmware
+    - Install Marlin 2.0 firmware
+
+
 ## Day 9 (14/6)
 > Spent: 3h
 
