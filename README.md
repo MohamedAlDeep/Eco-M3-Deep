@@ -69,5 +69,8 @@ I made this printer as it would help in making other projects as i don't have di
 | Cooling Fan           | 3D 4010 Brushless Cooling Fan, 24V DC with Ball Bearing 2pin Connector      | 90               | 1        | 90                | [Link](https://www.amazon.eg/-/en/gp/product/B0DJ9R2ZJ3/ref=ewc_pr_img_1?smid=A2DMKAT7ZKLGQN&psc=1) |
 | Thermistors           | 100K Ohm NTC 3950 Thermistor with Cable Dupont Head                         | 100              | 3        | 300               | [Link](https://www.amazon.eg/-/en/gp/product/B09MSPWTM5/ref=ewc_pr_img_1?smid=A26I4OU0GDWZ7W&psc=1) |
 | 5mm Bearings          | uxcell 625-2RS Deep Groove Ball Bearing 5x16x5mm (10-Pack)                 | 216              | 1        | 216               | [Link](https://www.amazon.eg/-/en/gp/product/B07TML6YP4/ref=ox_sc_act_title_1?smid=A24L91U83A8RCR&psc=1) |
+|Air blower             | DIY-Kit DC 12V Air blower,5cm Turbo blower,Humidifier fan,speed 4600RPM,3D Printer parts,cooling fan,Locking protection - 3D Printer 5015 Radial Turbo Blower 12Vdc Fan (SKU#1014) | 134.99 | 1 | 134.99 | [Link](https://www.amazon.eg/-/en/gp/product/B0D9TDTDCH/ref=ewc_pr_img_1?smid=A1G5VPUVPXBMQ6&psc=1)
+,,,,,
 
-**Total Cost:** 16,022.4 EGP (~322.33 USD as of 14/6/2025)
+
+**Total Cost:** 16157.39 EGP (~323.1 USD as of 18/6/2025)
