@@ -73,4 +73,4 @@ I made this printer as it would help in making other projects as i don't have di
 ,,,,,
 
 
-**Total Cost:** 16157.39 EGP (~323.1 USD as of 18/6/2025)
+**Total Cost:** 16157.39 EGP (~320 USD as of 18/6/2025)
