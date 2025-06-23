@@ -63,11 +63,12 @@ I made this printer as it would help in making other projects as i don't have di
 | SKR 1.4                  | SKR V1.4 TURBO                                                             | 2,999.00   | 1        | 2,999.00    | 59.36262866  | [Link](https://www.amazon.eg/-/en/gp/product/B09BMGXJ8S/ref=ox_sc_act_title_12?smid=A3HOVOH12T9VII&psc=1) |
 | Stepper Motors Drivers   | TMC2209 V2 Stepper Motor Driver                                            | 480        | 4        | 1920        | 38.00475059  | [Link](https://www.amazon.eg/-/en/gp/product/B0DJZL2XPQ/ref=ox_sc_act_title_15?smid=ANKKSL5YJGFAH&psc=1) |
 | Heated Bed               | Aluminum Heated Bed for 3D Printer (400x200x3mm)                           | 500        | 2        | 1000        | 19.79414093  | [Link](https://www.amazon.eg/-/en/gp/product/B099D8ZBVM/ref=ox_sc_act_title_1?smid=A2TUHD4CZOFOST&psc=1) |
-| Bed Leveling Screws      | 3D Printer Bed Leveling M3 Screw with Spring and Hand Knob 5 Pieces        | 155        | 1        | 155         | 3.068091845  | [Link](https://www.amazon.eg/-/en/gp/product/B0968XHW56/ref=ewc_pr_img_1?smid=A22MDF17B7GE04&psc=1) |
+| Bed Leveling Screws      | 3D Printer Bed Leveling M3 Screw with Spring and Hand Knob 5 Pieces        | 155        | 2        | 310         | 6.12  | [Link](https://www.amazon.eg/-/en/gp/product/B0968XHW56/ref=ewc_pr_img_1?smid=A22MDF17B7GE04&psc=1) |
 | Cooling Fan              | 3D 4010 Brushless Cooling Fan, 24v DC with Ball Bearing 2pin Connector     | 90         | 1        | 90          | 1.781472684  | [Link](https://www.amazon.eg/-/en/gp/product/B0DJ9R2ZJ3/ref=ewc_pr_img_1?smid=A2DMKAT7ZKLGQN&psc=1) |
 | Thermistors              | 100K Ohm NTC 3950 Thermistors Temperature Sensor with Cable Dupont Head for Reprap Mendel MK2A MK2B Heated Bed 3D Printers Parts | 100 | 3 | 300 | 5.93824228 | [Link](https://www.amazon.eg/-/en/gp/product/B09MSPWTM5/ref=ewc_pr_img_1?smid=A26I4OU0GDWZ7W&psc=1) |
 | 5mm Bearings             | uxcell 625-2RS Deep Groove Ball Bearing 5x16x5mm Double Sealed ABEC-3 Bearings 10-Pack | 216 | 1 | 216 | 4.275534442 | [Link](https://www.amazon.eg/-/en/gp/product/B07TML6YP4/ref=ox_sc_act_title_1?smid=A24L91U83A8RCR&psc=1) |
 | Air blower               | DIY-Kit DC 12V Air blower,5cm Turbo blower,Humidifier fan,speed 4600RPM,3D Printer parts,cooling fan,Locking protection - 3D Printer 5015 Radial Turbo Blower 12Vdc Fan (SKU#1014) | 134.99 | 1 | 134.99 | 2.672011085 | [Link](https://www.amazon.eg/-/en/gp/product/B0D9TDTDCH/ref=ewc_pr_img_1?smid=A1G5VPUVPXBMQ6&psc=1) |
 
-**Total**                                                                     |             |          | 15415.89 | 305.1442993 |
-**Total In USD (According to the conversion rate at 18/6/2025)**              |             |          |          | 305.1$      |
+**Total**                                                                     |             |          | 15570.89 | 308.1962074 |
+
+**Total In USD (According to the conversion rate at 18/6/2025)** ***309$***     
