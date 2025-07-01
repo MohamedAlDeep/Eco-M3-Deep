@@ -143,11 +143,7 @@ For the hotend mount i made 2 holes for mounting the CR10 hotend and additional 
 6. Firmware
     - Install Marlin 2.0 firmware
 
-7. Air Funnel
-    - This design is taken from the EOS 3D printer made in the HackClub's Infill Project 
-    - https://infill.hackclub.com/printers/eos3d/
 
-![](./Images/Air_Funnel.png)
 
 ## Day 9 (14/6)
 > Spent: 3h
